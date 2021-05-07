@@ -1,0 +1,13 @@
+
+.content {
+	height: 1500rpx;
+}
+.feedback-submit {
+	background-color: #ff5053;
+	font-weight: 700;
+	color: #fff;
+	margin: 30rpx;
+	opacity: 0.8;
+	border-radius: 50rpx;
+}
+

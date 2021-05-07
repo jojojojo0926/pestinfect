@@ -1,0 +1,12 @@
+
+.t-td {
+	width: 100%;
+	height: 60rpx;
+	padding: 10rpx;
+	text-align: center;
+	border-top: 1px #d0dee5 solid;
+	border-left: 1px #d0dee5 solid;
+	color: #555c60;
+	font-size: 20rpx;
+}
+

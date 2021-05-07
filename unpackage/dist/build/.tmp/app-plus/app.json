@@ -1,0 +1,40 @@
+{
+  "pages": [
+    "pages/login/login",
+    "pages/main/main",
+    "pages/felling/felling",
+    "pages/check/check",
+    "pages/division/division",
+    "pages/transport/transport",
+    "pages/burn/burn",
+    "pages/smash/smash",
+    "pages/startNav/startNav",
+    "pages/scene/scene",
+    "pages/photograph/photograph",
+    "pages/researchday/researchday",
+    "pages/fellingday/fellingday",
+    "pages/checksql/checksql",
+    "pages/mainsql/mainsql",
+    "pages/scenesql/scenesql",
+    "pages/burnsql/burnsql",
+    "pages/smashsql/smashsql",
+    "pages/transportsql/transportsql"
+  ],
+  "window": {
+    "navigationBarTextStyle": "white",
+    "navigationBarBackgroundColor": "#000",
+    "backgroundColor": "#000"
+  },
+  "networkTimeout": {
+    "request": 20000
+  },
+  "nvueCompiler": "uni-app",
+  "renderer": "auto",
+  "splashscreen": {
+    "alwaysShowBeforeRender": true,
+    "autoclose": false
+  },
+  "appname": "pineinfect",
+  "compilerVersion": "2.5.1",
+  "usingComponents": {}
+}
